@@ -26,5 +26,8 @@
     <ClInclude Include="src\TinyArray.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\TinyVector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
